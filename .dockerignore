@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.env
+*.onnx
+*.pt
+.DS_Store
+README.md
+.vscode/
+.idea/
+node_modules/
