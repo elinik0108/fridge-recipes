@@ -2,6 +2,9 @@
 
 An intelligent application that scans your fridge, detects food items using AI vision, and generates personalized recipes based on what's available. Built with  cloud infrastructure and by YOLOv8 object detection and Google Gemini AI.
 
+# Deployed on AWS
+https://duad4j3uxofhr.cloudfront.net
+
 ## Features
 
 - **Smart Food Detection**: Uses YOLOv8 neural network to identify food items from fridge photos
